@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{32D0602F-1E6F-084D-B2AD-E9FAF79A17F0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FollowPlayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="19" Column="15" />
+      <File FileName="Assets/Scripts/MoveTruck.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FollowPlayer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f42ed3e-416a-48ca-a64c-677272c4bbf9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
